@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b4761c1cc3926a50d3f73e1d05013112" extends="sys_import_set_row" label="Historic NeedIt Data" max_length="40" name="x_58872_needit_historic_needit_data" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Jerrie" label="Jerrie" max_length="40" name="u_jerrie" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=1992-07-20" label="1992-07-20" max_length="40" name="u_1992_07_20" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name={{ID}}" label="{{ID}}" max_length="40" name="u___id__" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=tai.lancaster-reed935@they.com" label="tai.lancaster-reed935@they.com" max_length="40" name="u_tai_lancaste_ed935_they_com" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Honeycutt" label="Honeycutt" max_length="40" name="u_honeycutt" type="string"/>
+    </element>
+</database>
