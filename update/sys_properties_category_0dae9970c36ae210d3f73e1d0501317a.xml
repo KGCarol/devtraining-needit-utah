@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-02 18:16:38</sys_created_on>
+        <sys_id>0dae9970c36ae210d3f73e1d0501317a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_0dae9970c36ae210d3f73e1d0501317a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-02 18:16:38</sys_updated_on>
+        <title><![CDATA[<p><img src="https://th.bing.com/th/id/OIP.qwREQxHBpiafVqOH6jp0nwHaE8?w&#61;135&amp;h&#61;104&amp;c&#61;7&amp;bgcl&#61;757dd2&amp;r&#61;0&amp;o&#61;6&amp;dpr&#61;1.5&amp;pid&#61;13.1" alt="Web page related images" />This is a Yorkie. I love this breed.</p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=0dae9970c36ae210d3f73e1d0501317a"/>
+</record_update>
